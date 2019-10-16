@@ -1,0 +1,54 @@
+Arial_BI_20
+180_10_Sample Cover Letter_C
+20
+Arial__12
+180_10_Martha (Marti) Saunders_L
+5
+Arial__12
+180_10_10000 N. 91st. Ave._L
+5
+Arial__12
+180_10_Phoenix, AZ 85000_L
+5
+Arial__12
+180_10_602-555-1234_L
+5
+Arial__12
+180_10_saundersmarti@email.com_L
+20
+Arial__12
+180_10_Date_L
+20
+Arial__12
+180_10_Dear (Hiring Manager),_L
+10
+Arial__12
+190_10_I am writing this letter and enclosing my resume to apply for the (Position) with (Company). This_L
+6
+Arial__12
+190_10_position came to my attention (How). After reviewing my resume, I strongly believe I am a qualified_L
+6
+Arial__12
+190_10_candidate for this position._L
+10
+Arial__12
+190_10_(Summarize Qualifications/hard skills/soft skills). After research of your company, I feel my goals and_L
+6
+Arial__12
+190_10_value match those of (Company)_L
+10
+Arial__12
+190_10_Thank you for taking time to review my resume. I look forward to hearing from you to set up an_L
+6
+Arial__12
+190_10_interview. You can contact me at (602) 555-1234 or via email at saundersmarti@email.com_L
+10
+Arial__12
+190_10_Sincerely,_L
+25
+Arial__12
+190_10_Martha (Marti) Saunders_L
+15
+Arial__12
+190_10_ENC: Resume_L
+0
