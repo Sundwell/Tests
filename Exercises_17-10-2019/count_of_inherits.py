@@ -1,5 +1,6 @@
 # 1
 
+
 def print_count():
     print(f'Count of inherits = {Useless.count_of_inherits}')
 

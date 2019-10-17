@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e736983-6678-4fcf-bdd6-0cff7375718c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises_17-10-2019/count_calls_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises_17-10-2019/count_of_inherits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FPDF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FPDF.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/main.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises_17-10-2019/count_of_inherits.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises_17-10-2019/count_of_inherits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
