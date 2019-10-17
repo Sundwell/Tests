@@ -36,5 +36,3 @@ cat.close_eyes()
 dog = Dog('Doggy')
 dog.move()
 dog.close_eyes()
-
-
