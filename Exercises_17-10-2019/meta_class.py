@@ -1,6 +1,5 @@
 class MyMetaClass(type):
 
-
     def __new__(mcs, cls_name, cls_parents, cls_attrs):
         rejected_methods = ['__contains__', '__format__', '__len__', '__repr__']
         for name, value in cls_attrs.items():
