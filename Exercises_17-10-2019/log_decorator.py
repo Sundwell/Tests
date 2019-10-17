@@ -9,14 +9,15 @@ def decorator(func):
     return wrapper
 
 
+@decorator
 def print_some(name, points):
     my_dict.update({name: points})
     return my_dict
 
 
-decorated_print_some = decorator(print_some)
-decorated_print_some("Soren", 100)
-decorated_print_some("Andrew", 53)
-decorated_print_some("Sarah", 76)
-decorated_print_some("Maxwell", 58)
-print(my_dict)
+if __name__ == "__main__":
+    print_some("Soren", 100)
+    print_some("Andrew", 53)
+    print_some("Sarah", 76)
+    print_some("Maxwell", 58)
+    print(my_dict)
