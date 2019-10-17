@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e736983-6678-4fcf-bdd6-0cff7375718c" name="Default Changelist" comment="" />
+    <list default="true" id="2e736983-6678-4fcf-bdd6-0cff7375718c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Exercises_17-10-2019/class_being.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises_17-10-2019/class_being.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.count_of_inherits">
-    <configuration name="abstract_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.class_being">
+    <configuration name="class_being" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FPDF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdf/abstract_pdf" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises_17-10-2019" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdf/abstract_pdf/abstract_pdf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises_17-10-2019/class_being.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class_being" />
         <item itemvalue="Python.count_of_inherits" />
         <item itemvalue="Python.count_calls_class" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.test_pdf" />
-        <item itemvalue="Python.abstract_pdf" />
       </list>
     </recent_temporary>
   </component>
