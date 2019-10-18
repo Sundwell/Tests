@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
@@ -97,7 +96,7 @@ ENV/
 # mypy
 .mypy_cache/
 
-.idea/
+.idea
 pgdata/
 db.sqlite3
 *.sqlite3
