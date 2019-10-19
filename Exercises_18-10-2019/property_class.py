@@ -25,6 +25,7 @@ class Programmer:
 
     @lang.setter
     def lang(self, lang):
+        print(lang.split(' '))
         for language in lang.split(' '):
             if language not in PROGR_LANGS:
                 raise ValueError(f'{language} language doesn\'t exist')
@@ -38,3 +39,4 @@ class Programmer:
 
 if __name__ == '__main__':
     Sundwell = Programmer('Sundwell', 'Python C++')
+    Sundwell.lang += ' C#'
